@@ -1,1 +1,1 @@
-# projects
+Credit card management system using Sqlite3.
